@@ -1,6 +1,16 @@
-# Beatriz Freitas Damacena 
-## Quem sou eu
+## Olá, eu sou a Beatriz 👋
 
-Me chamo Beatriz Damacena, tenho 18 anos, e nasci em São Bernardo do Campo (ABC Paulista). Me mudei para o inteirior de São Paulo, para a cidade de Hortolândia, quando eu tinha 7 anos de idade porque a empresa que meu pai trabalhava se mudou para melhor logística. Quando era criança não gostava de ter me mudado então demorei um tempo para me acostumar, mas depois aconteceu de forma natural. Sempre estudei em escola pública, e no meu ensino médio consegui entrar na ETEC de Hortolândia cursando o Técnico de Desenvolvimento de Sistema, entrei sem saber nada sobre o curso mas depois fiquei encantada pelas áreas que são trabalhadas e principalmente o BACKEND. Na ETEC também consegui desenvolver meu espírito esportivo quando participei do interclasse, depois dele fui chamada para participar do time de vôlei e fustsal. Durante o desenvolvimento do meu TCC me apaixonei por completo pela área, me inscrevi em um processo seletivo da empresa Bosch para o curso de Digital Solution e conquistei a vaga. 
-Atualmente faço parte do time Bosch e faço curso de Desenvolvimento de Sistemas na instituição SENAI Campinas.
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
+- 🔭 Hoje estou trabalhando como jovem aprendiz 
+- 🌱 Estudando: Front-end e Back-end 
+- 📫 E-mail: beatrizfdamacena@gmail.com
+- 😄 Pronouns: Ela/Dela
+<br/>
+
+Linguagens:
+<div>
+<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
